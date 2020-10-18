@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/splash-build/static/css/main.f9f93b43.chunk.css",
+    "main.css": "/splash-build/static/css/main.6ace7ef8.chunk.css",
     "main.js": "/splash-build/static/js/main.9cfc438e.chunk.js",
     "main.js.map": "/splash-build/static/js/main.9cfc438e.chunk.js.map",
     "runtime-main.js": "/splash-build/static/js/runtime-main.8784ca90.js",
@@ -9,17 +9,17 @@
     "static/js/2.226fa1fb.chunk.js": "/splash-build/static/js/2.226fa1fb.chunk.js",
     "static/js/2.226fa1fb.chunk.js.map": "/splash-build/static/js/2.226fa1fb.chunk.js.map",
     "index.html": "/splash-build/index.html",
-    "precache-manifest.0aef41b9ec2f27a1573be9ff36816216.js": "/splash-build/precache-manifest.0aef41b9ec2f27a1573be9ff36816216.js",
+    "precache-manifest.fcd7ae5ac0d4be6bbee7de441e39f4c6.js": "/splash-build/precache-manifest.fcd7ae5ac0d4be6bbee7de441e39f4c6.js",
     "service-worker.js": "/splash-build/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/splash-build/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.f9f93b43.chunk.css.map": "/splash-build/static/css/main.f9f93b43.chunk.css.map",
+    "static/css/main.6ace7ef8.chunk.css.map": "/splash-build/static/css/main.6ace7ef8.chunk.css.map",
     "static/js/2.226fa1fb.chunk.js.LICENSE.txt": "/splash-build/static/js/2.226fa1fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8784ca90.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.226fa1fb.chunk.js",
-    "static/css/main.f9f93b43.chunk.css",
+    "static/css/main.6ace7ef8.chunk.css",
     "static/js/main.9cfc438e.chunk.js"
   ]
 }
